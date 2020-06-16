@@ -6,7 +6,7 @@ spring:
       uri: http://127.0.0.1:7002/
       profile: dev
 server:
-  port: 7003
+  port: 9527
 management:
   security:
     enabled: false
